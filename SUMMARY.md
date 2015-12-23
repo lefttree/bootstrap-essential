@@ -4,3 +4,5 @@
     + [Container](./grid/containers.md)
     + [Rows and Columns](./grid/rowColumn.md)
 * [Classes](./classes/headingBody.md)
+* [Styles](./styles.md)
+* [Forms](./form.md)
